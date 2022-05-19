@@ -12,8 +12,6 @@ import UserNotifications
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate, PushNotificationDelegate {
-
-    
     
     var window: UIWindow?
 
